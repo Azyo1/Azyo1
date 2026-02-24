@@ -43,9 +43,7 @@
   📬 Open to fintech, corporate finance, and AI-adjacent roles
 
   ---
-  2. Profile Bio (the one-liner under your name)
-
-  Go to Edit Profile and paste this in the Bio field:
+  2. Profile Bio 
 
   Fintech & AI builder. Financial modeling (DCF, LBO). Chemistry B.S. Dallas, TX.
 
