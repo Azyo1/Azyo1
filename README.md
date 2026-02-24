@@ -103,15 +103,25 @@
 
   ## Tech Stack
 
-  - **Python** — backend data collection and processing
-  - **Claude AI** — intelligent summarization
-  - **[add your frontend/UI stack here]**
+  - **FastAPI** — REST API backend
+  - **Pydantic** — data validation and modeling
+  - **Claude AI** — intelligent summarization (headline, bullets, plain english, impact rating)
+  - **Service Worker / PWA** — push notifications for high-impact events
+  - **Python** — core data collection and feed processing
+
 
   ---
 
   ## Status
 
-  🚧 Work in Progress — active development
+  🚧 Active development — core API complete, auth and billing integrated
+
+  **What's working:**
+  - Feed polling scheduler
+  - Claude AI summarization pipeline
+  - Push notification system
+  - Authentication
+  - Billing integration
 
   ---
 
