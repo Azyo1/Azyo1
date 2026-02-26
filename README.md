@@ -1,145 +1,48 @@
 ## Hi there 👋
 
 # Francisco Rodriguez
-  ### Dallas, TX · Fintech & AI Builder · Financial Analyst
+### Dallas, TX · Fintech & AI Builder · Financial Analyst
 
-  Analytical background in chemistry (B.S.) with a focus on building
-  tools at the intersection of financial markets and AI. I build things
-  that make market data more accessible, automate financial workflows,
-  and model investment decisions.
+Analytical background in chemistry (B.S.) with a focus on building
+tools at the intersection of financial markets and AI. I build things
+that make market data more accessible, automate financial workflows,
+and model investment decisions.
 
-  Currently working on FedPulse — a Bloomberg Terminal-style web app
-  that monitors the Fed, Treasury, SEC, BLS, and White House for
-  market-moving statements, summarized in real time using Claude AI.
+Currently working on FedPulse — a Bloomberg Terminal-style web app
+that monitors the Fed, Treasury, SEC, BLS, and White House for
+market-moving statements, summarized in real time using Claude AI.
 
-  ---
+---
 
-  **What I work with**
+**What I work with**
 
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-  ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
-  ![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat)
-  ![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D97757?style=flat)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-18A303?style=flat&logo=libreoffice&logoColor=white)
 
-  ---
+---
 
-  **What I build**
+**What I build**
 
-  - 🏦 Financial models — DCF, LBO, Cash Flow analysis (Excel)
-  - 🤖 AI-powered market monitoring tools
-  - 📊 Prediction market trading bots (Kalshi)
-  - 📚 Technical guides and educational content
+- 🏦 Institutional financial models — DCF, LBO, Equity Research (Excel + Python)
+- 🤖 AI-powered market monitoring tools
+- 📊 Prediction market trading bots (Kalshi)
+- 📚 Technical guides and educational content
 
-  ---
+---
 
-  **Currently**
+**Currently**
 
-  - 🔨 Building FedPulse (WIP)
-  - 📈 Financial modeling portfolio — DCF · LBO · Scenario Analysis
-  - 📖 Publishing practical AI and finance guides on Amazon KDP
+- 🔨 Building FedPulse (WIP)
+- 📈 [Financial Modeling Portfolio](https://github.com/Azyo1/financial-modeling-portfolio) — 3 complete models:
+  - **Dick's Sporting Goods LBO** — 30.4% IRR / 3.8× MOIC
+  - **AMD Equity Research** — OVERWEIGHT $145 PT (+20.8% upside)
+  - **Ferrari N.V. Valuation** — OVERWEIGHT $450 PT (+19.8% upside) · "The Luce Catalyst"
+- 📖 Publishing practical AI and finance guides on Amazon KDP
 
-  ---
+---
 
-  📬 Open to fintech, corporate finance, and AI-adjacent roles
+📬 Open to fintech, corporate finance, and AI-adjacent roles
 
-  ---
-  2. Profile Bio 
-
-  Fintech & AI builder. Financial modeling (DCF, LBO). Chemistry B.S. Dallas, TX.
-
-  ---
-  3. Repo Descriptions
-
-  kalshi_btc_bot
-  Automated Bitcoin trading bot built for the Kalshi prediction markets platform.
-
-  kalshi-weather-bot
-  Automated weather event trading bot for Kalshi prediction markets.
-
-  fedpulse
-  Bloomberg Terminal-style web app monitoring Fed, Treasury, SEC, BLS & White House for market-moving statements — summarized in real time
-   with Claude AI.
-
-  ---
-  4. FedPulse README.md
-
-  # FedPulse 📡
-
-  > A Bloomberg Terminal-style web app that monitors the Fed, Treasury,
-  > SEC, BLS, and White House for market-moving statements — summarized
-  > in real time using Claude AI.
-
-  ---
-
-  ## Why FedPulse?
-
-  Market-moving statements from government institutions are public — but
-  scattered, dense, and hard to monitor in real time. FedPulse aggregates
-  them into one clean interface and uses Claude AI to surface what actually
-  matters for markets.
-
-  ---
-
-  ## What It Monitors
-
-  | Source | What's tracked |
-  |---|---|
-  | Federal Reserve | Speeches, meeting minutes, rate decisions |
-  | U.S. Treasury | Debt issuance, policy statements |
-  | SEC | Regulatory filings, enforcement actions |
-  | BLS | Jobs reports, CPI, PPI releases |
-  | White House | Executive orders, economic policy |
-
-  ---
-
-  ## How It Works
-
-  1. Monitors official sources for new releases
-  2. Pulls full text of statements and reports
-  3. Sends content to Claude AI for summarization
-  4. Surfaces market-relevant highlights in a clean terminal-style UI
-
-  ---
-
-  ## Tech Stack
-
-  - **FastAPI** — REST API backend
-  - **Pydantic** — data validation and modeling
-  - **Claude AI** — intelligent summarization (headline, bullets, plain english, impact rating)
-  - **Service Worker / PWA** — push notifications for high-impact events
-  - **Python** — core data collection and feed processing
-
-
-  ---
-
-  ## Status
-
-  🚧 Active development — core API complete, auth and billing integrated
-
-  **What's working:**
-  - Feed polling scheduler
-  - Claude AI summarization pipeline
-  - Push notification system
-  - Authentication
-  - Billing integration
-
-  ---
-
-  ## Getting Started
-
-  ```bash
-  git clone https://github.com/Azyo1/fedpulse
-  cd fedpulse
-  pip install -r requirements.txt
-
-  Full setup instructions coming as project matures.
-
-  ---
-  Roadmap
-
-  - Real-time alerts for high-impact statements
-  - Sentiment scoring per institution
-  - Historical archive with search
-  - Market reaction correlation layer
-
-  ---
+---
