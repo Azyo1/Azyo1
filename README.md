@@ -36,11 +36,11 @@ market-moving statements, summarized in real time using Claude AI.
 
 - 🔨 Building FedPulse (WIP)
 - 📈 [Financial Modeling Portfolio](https://github.com/Azyo1/financial-modeling-portfolio) — 5 complete models:
-  - **Dick's Sporting Goods LBO** — 28.1% IRR / 3.5× MOIC
-  - **AMD Equity Research** — OVERWEIGHT $215 PT · PT Exceeded ($348.84)
-  - **Ferrari N.V. Valuation** — OVERWEIGHT $450 PT (+27.9% upside) · "The Luce Catalyst"
-  - **BlackBerry DCF** — OVERWEIGHT $7.00 PT (+27.3% upside) · QNX / NVIDIA IGX catalyst
-  - **Nautilus Biotechnology DCF** — OVERWEIGHT $5.00 PT (+68.4% upside) · Pre-revenue proteomics
+  - **Dick's Sporting Goods LBO** — 27.0% IRR / 3.3× MOIC
+  - **AMD Equity Research** — UNDERWEIGHT $405 PT (-29.0% vs $570.82) · Oct 2026 coverage update
+  - **Ferrari N.V. Valuation** — OVERWEIGHT $480 PT (+36.4% upside) · "The Luce Catalyst"
+  - **BlackBerry DCF** — OVERWEIGHT $6.28 PT (+14.1% upside) · QNX / NVIDIA IGX catalyst
+  - **Nautilus Biotechnology DCF** — OVERWEIGHT $6.00 PT (+102% upside) · Pre-revenue proteomics
 - 📖 Publishing practical AI and finance guides on Amazon KDP
 
 ---
